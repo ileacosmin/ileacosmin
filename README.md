@@ -1,14 +1,17 @@
 ## About Me
 
 Hello, I'm a 21-year-old student currently in my third year of studying Automation and Applied Informatics at the Technical University of Cluj Napoca. <br>
-Explore my profile to discover some of my relevant projects.
+Explore my profile to discover some of my projects.
 
 ## Skills
+- Java;
+- Python; 
+- C++;
+- C#;
+- HTML/CSS;
+- SQL.
 
-- C++
-- Electrical Engineering
-- MATLAB
-- Java
+• Technical Skills: Software Engineering, OOP, Electrical Engineering, Control Engineering.
   
 ## Interests
 
