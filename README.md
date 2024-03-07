@@ -20,7 +20,7 @@ Explore my profile to discover some of my projects.
 ## Find Me Online
 
 - [LinkedIn](https://www.linkedin.com/in/cosmin-ilea-0530b522b/)
-- [Personal Website (still in progress)](https://pierpatrat.github.io)
+- [Personal Website (still in progress)](https://ileacosmin.github.io)
 
 ## Contact Me
 
