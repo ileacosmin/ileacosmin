@@ -26,6 +26,10 @@ Explore my profile to discover some of my projects.
 
 - Email: ileacosmin12@gmail.com
 
+##
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ileacosmin&show_icons=true&locale=en&layout=compact&theme=dark" alt="ileacosmin" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ileacosmin&show_icons=true&locale=en&theme=dark" alt="ileacosmin" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ileacosmin&theme=dark" alt="ileacosmin" /></p>
