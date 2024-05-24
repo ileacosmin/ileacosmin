@@ -26,10 +26,19 @@ Explore my profile to discover some of my projects.
 
 - Email: ileacosmin12@gmail.com
 
-##
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ileacosmin&show_icons=true&locale=en&layout=compact&theme=dark" alt="ileacosmin" /></p>
+## GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ileacosmin&show_icons=true&locale=en&theme=dark" alt="ileacosmin" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ileacosmin&theme=github" alt="Profile Summary" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ileacosmin&theme=dark" alt="ileacosmin" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ileacosmin&show_icons=true&locale=en&layout=compact&theme=github" alt="ileacosmin" /></p>
+
+
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ileacosmin&theme=github" alt="Repos per Language" /></p>
+
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ileacosmin&theme=github" alt="Most Commit Language" /></p>
+
+
+
+
+
